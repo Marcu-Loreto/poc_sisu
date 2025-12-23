@@ -29,7 +29,7 @@ FORBIDDEN_PATTERNS = [
 ]
 
 # =====================================================
-# Prompt loader
+# Carregar Prompt do arquivo
 # =====================================================
 
 def load_prompt_template() -> str:
